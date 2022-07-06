@@ -1,8 +1,8 @@
 # Balaban G-Mail
 
-  Balaban G-Mail, e-posta gönderme yazılımıdır. Kullanıcının gmail hesaplarına giriş yapmasını ve hızlı bir şekilde e-posta göndermesini sağlar. 
-  Bu yazılım yalnızca e-posta gönderir; e-posta okumak için kullanılamaz. 
-  Lütfen Balaban G-Mail ile ilgili yorumlarınızı epbalaban07@gmail.com adresine gönderin veya beni http://www.github.com/epbalaban01 veya http://www.formula1turkey.epizy.com adresinde bulabilirsiniz.
+- Balaban G-Mail, e-posta gönderme yazılımıdır. Kullanıcının gmail hesaplarına giriş yapmasını ve hızlı bir şekilde e-posta göndermesini sağlar. 
+- Bu yazılım yalnızca e-posta gönderir; e-posta okumak için kullanılamaz. 
+- Lütfen Balaban G-Mail ile ilgili yorumlarınızı epbalaban07@gmail.com adresine gönderin veya beni http://www.github.com/epbalaban01 veya http://www.formula1turkey.epizy.com adresinde bulabilirsiniz.
 
 
 <b>Desteklenen Diller</b>
